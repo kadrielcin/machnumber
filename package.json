@@ -1,0 +1,18 @@
+{
+  "name": "machnumber",
+  "version": "0.0.3",
+  "description": "this converts the given Mach numbers to km per hour",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mach"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maskelisuvari1211/machnumber.git"
+  },
+  "author": "Kadri Elcin <kadrielcin@mail.com>",
+  "license": "MIT"
+}
