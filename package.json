@@ -1,6 +1,6 @@
 {
   "name": "machnumber",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "this converts the given Mach numbers to km per hour",
   "main": "index.js",
   "scripts": {
